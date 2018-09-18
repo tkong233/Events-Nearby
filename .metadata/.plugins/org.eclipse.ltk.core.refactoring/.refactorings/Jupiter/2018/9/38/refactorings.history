@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;db.mysql.MYSQLDBUtil&apos; to &apos;MySQLDBUtil&apos;&#x0A;- Original project: &apos;Jupiter&apos;&#x0A;- Original element: &apos;db.mysql.MYSQLDBUtil&apos;&#x0A;- Renamed element: &apos;db.mysql.MySQLDBUtil&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;MYSQLDBUtil&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;db.mysql{MYSQLDBUtil.java[MYSQLDBUtil" matchStrategy="1" name="MySQLDBUtil" qualified="false" references="true" similarDeclarations="false" stamp="1537138051549" textual="false" version="1.0"/>
+</session>
