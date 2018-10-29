@@ -1,7 +1,7 @@
 # Jupiter
 - A personalized event search and recommendation web appplication.
 
-![](demo/main.png)
+![](demo/main.jpeg)
 - Browse events happening near you, and save the ones you like.
 - Jupiter will recommend events based on your "like" record, search history, and geographical location.
 
